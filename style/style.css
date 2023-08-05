@@ -61,6 +61,12 @@ a:hover {
     float: right;
 }
 
+.post {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
 /* Rodape */
 #baseboard {
     clear: both;
